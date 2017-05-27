@@ -5,15 +5,15 @@
     <string name="accessibility_service_description">VibeOnKey usluga treba prepoznati pritisak tipke.</string>
     <string name="back">tipka NAZAD</string>
     <string name="home">tipka HOME</string>
-    <string name="volume">tipka GLASNO»A</string>
+    <string name="volume">tipka GLASNO√àA</string>
     <string name="keychoice">Odaberite tipke</string>
     <string name="menu">tipka MENI</string>
     <string name="power">tipka UPALI</string>
-    <string name="access">PristupaËnost</string>
+    <string name="access">Pristupa√®nost</string>
     <string name="access_info">Usluga treba biti upaljena!</string>
     <string name="vibro">Vibracija</string>
     <string name="force">Sila</string>
-    <string name="force_info">Prilagodi jaËinu vibracije</string>
+    <string name="force_info">Prilagodi ja√®inu vibracije</string>
     <string name="version">Verzija</string>
     <string name="ver_key" translatable="false">1.2.2</string>
     <string name="author">Autor</string>
@@ -22,11 +22,11 @@
     <string name="categ_vibro">Vibracija</string>
     <string name="categ_about">O</string>
     <string name="key">Tipke</string>
-    <string name="warn">Eksperimentalno, ovisi o ureaju!</string>
-    <string name="recents">NEDAVNO key</string>
-    <string name="source">Otvoreni izvor</string>
-    <string name="source_info">Ova aplikacija je opensource!(Github link)</string>
-    <string name="key_disabler">Gaöenje tipke</string>
+    <string name="warn">Eksperimentalno, ovisi o ure√∞aju!</string>
+    <string name="recents">tipka NEDAVNO </string>
+    <string name="source">Open source</string>
+    <string name="source_info">Ova aplikacija je open source!(Github link)</string>
+    <string name="key_disabler">Ga≈°enje tipke</string>
     <string name="key_disabler_info">Blokira vibraciju tipke nazad ako je home tipka pritisnuta (Bez dvostruke vibracije)</string>
     <string name="theme">Tema</string>
     <string name="theme_info">Odaberi temu aplikacije</string>
@@ -37,33 +37,33 @@
     <string name="onkey">Vibracija upaljena</string>
     <string name="onkey_title" translatable="false"></string>
     <string name="tap">Pritisni</string>
-    <string name="release">Otpusti</string>
+    <string name="release">Pusti</string>
     <string name="dark">Crno</string>
     <string name="sound">Zvuk</string>
     <string name="sound_info">Izvedi zvuk na pritisak</string>
-    <string name="title_activity_stats">Statistika</string>
-    <string name="hello_world" translatable="false">Pozdrav svijete</string>
+    <string name="title_activity_stats">Statistike</string>
+    <string name="hello_world" translatable="false">Pozdrav svijetu</string>
     <string name="action_settings">Postavke</string>
     <string name="add">Dodatne informacije...</string>
     <string name="pref_title_vibrate" translatable="false"></string>
-    <string name="gd_txt1">Dobrodoöli u vodiË za poËetak uporabe aplikacije VibeOnKey. PomoËu VibeOnKey moûete dodavati i ureivati vibracije fiziËkih tipki vaöeg ureaja.</string>
-    <string name="gd_txt2">Veoma mala potroönja resursa! ROOT nije potreban!</string>
-    <string name="gd_txt3">1 - Opcije pristupaËnosti (link za Postavke). OmoguËi uslugu ovdje. \n2 - Tipke. Odaberi tipke ovdje. \n3 - Odaberi jaËinu vibracije.</string>
-    <string name="gd_txt4">Brzo namjeötanje gotovo!\néelimo vam sretno koriötenje!</string>
-    <string name="skip">PRESKO»I</string>
-    <string name="next">SLJEDE∆E</string>
+    <string name="gd_txt1">Dobrodo≈°li u vodi√® za po√®etak uporabe aplikacije VibeOnKey. Pomo√®u VibeOnKey mo≈æete dodavati i ure√∞ivati vibracije fizi√®kih tipki va≈°eg ure√∞aja.</string>
+    <string name="gd_txt2">Veoma mala potro≈°nja resursa! ROOT nije potreban!</string>
+    <string name="gd_txt3">1 - Opcije pristupa√®nosti (link za Postavke). Omogu√®i uslugu ovdje. \n2 - Tipke. Odaberi tipke ovdje. \n3 - Odaberi ja√®inu vibracije.</string>
+    <string name="gd_txt4">Brzo namje≈°tanje gotovo!\n≈Ωelimo vam sretno kori≈°tenje!</string>
+    <string name="skip">PRESKO√àI</string>
+    <string name="next">SLJEDE√ÜE</string>
     <string name="close">ZATVORI</string>
-    <string name="guide">VodiË</string>
-    <string name="guide_sum">Pritisni za otvaranje vodiËa</string>
-    <string name="myvalue">Vaöa odabrana vrijednost</string>
-    <string name="myvalue_check">Koristi Vaöu vrijednost</string>
-    <string name="myvalue_sum">Unesi Vaöu vrijednost ovdje (0-250)</string>
-    <string name="myvalue_check_sum">OmpoguËi unoöenje Vaöe vrijednosti</string>
+    <string name="guide">Vodi√®</string>
+    <string name="guide_sum">Pritisni za otvaranje vodi√®a</string>
+    <string name="myvalue">Va≈°a odabrana vrijednost</string>
+    <string name="myvalue_check">Koristi Va≈°u vrijednost</string>
+    <string name="myvalue_sum">Unesi Va≈°u vrijednost ovdje (0-250)</string>
+    <string name="myvalue_check_sum">Ompogu√®i uno≈°enje Va≈°e vrijednosti</string>
     <string name="onscreen">Vibracija ekrana</string>
-    <string name="onscreen_sum">Vibriraj na dodir ekrana</string>
+    <string name="onscreen_sum">Vibracija na dodir ekrana</string>
     <string name="icon">Promjeni ikonu</string>
     <string name="icon_sum">Postavi crvenu ikonu</string>
-    <string name="reset">Resetiraj statistiku?</string>
+    <string name="reset">Resetiraj statistike?</string>
     <string name="sure">Dali ste sigurni?</string>
     <string name="cancel">Odustani</string>
     <string name="yes">Da</string>
