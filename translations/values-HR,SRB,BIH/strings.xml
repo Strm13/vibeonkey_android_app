@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VibeOnKey</string>
+    <string name="accessibility_service_description">VibeOnKey usluga treba prepoznati pritisak tipke.</string>
+    <string name="back">tipka NAZAD</string>
+    <string name="home">tipka HOME</string>
+    <string name="volume">tipka GLASNOÈA</string>
+    <string name="keychoice">Odaberite tipke</string>
+    <string name="menu">tipka MENI</string>
+    <string name="power">tipka UPALI</string>
+    <string name="access">Pristupaènost</string>
+    <string name="access_info">Usluga treba biti upaljena!</string>
+    <string name="vibro">Vibracija</string>
+    <string name="force">Sila</string>
+    <string name="force_info">Prilagodi jaèinu vibracije</string>
+    <string name="version">Verzija</string>
+    <string name="ver_key" translatable="false">1.2.2</string>
+    <string name="author">Autor</string>
+    <string name="author_key">MasterYus @4PDA 2016-2017</string>
+    <string name="categ_on">ON/OFF</string>
+    <string name="categ_vibro">Vibracija</string>
+    <string name="categ_about">O</string>
+    <string name="key">Tipke</string>
+    <string name="warn">Eksperimentalno, ovisi o ureðaju!</string>
+    <string name="recents">NEDAVNO key</string>
+    <string name="source">Otvoreni izvor</string>
+    <string name="source_info">Ova aplikacija je opensource!(Github link)</string>
+    <string name="key_disabler">Gašenje tipke</string>
+    <string name="key_disabler_info">Blokira vibraciju tipke nazad ako je home tipka pritisnuta (Bez dvostruke vibracije)</string>
+    <string name="theme">Tema</string>
+    <string name="theme_info">Odaberi temu aplikacije</string>
+    <string name="red">Crvena</string>
+    <string name="blue">Plava</string>
+    <string name="grey">Siva</string>
+    <string name="green">Zelena</string>
+    <string name="onkey">Vibracija upaljena</string>
+    <string name="onkey_title" translatable="false"></string>
+    <string name="tap">Pritisni</string>
+    <string name="release">Otpusti</string>
+    <string name="dark">Crno</string>
+    <string name="sound">Zvuk</string>
+    <string name="sound_info">Izvedi zvuk na pritisak</string>
+    <string name="title_activity_stats">Statistika</string>
+    <string name="hello_world" translatable="false">Pozdrav svijete</string>
+    <string name="action_settings">Postavke</string>
+    <string name="add">Dodatne informacije...</string>
+    <string name="pref_title_vibrate" translatable="false"></string>
+    <string name="gd_txt1">Dobrodošli u vodiè za poèetak uporabe aplikacije VibeOnKey. Pomoèu VibeOnKey možete dodavati i ureðivati vibracije fizièkih tipki vašeg ureðaja.</string>
+    <string name="gd_txt2">Veoma mala potrošnja resursa! ROOT nije potreban!</string>
+    <string name="gd_txt3">1 - Opcije pristupaènosti (link za Postavke). Omoguèi uslugu ovdje. \n2 - Tipke. Odaberi tipke ovdje. \n3 - Odaberi jaèinu vibracije.</string>
+    <string name="gd_txt4">Brzo namještanje gotovo!\nŽelimo vam sretno korištenje!</string>
+    <string name="skip">PRESKOÈI</string>
+    <string name="next">SLJEDEÆE</string>
+    <string name="close">ZATVORI</string>
+    <string name="guide">Vodiè</string>
+    <string name="guide_sum">Pritisni za otvaranje vodièa</string>
+    <string name="myvalue">Vaša odabrana vrijednost</string>
+    <string name="myvalue_check">Koristi Vašu vrijednost</string>
+    <string name="myvalue_sum">Unesi Vašu vrijednost ovdje (0-250)</string>
+    <string name="myvalue_check_sum">Ompoguèi unošenje Vaše vrijednosti</string>
+    <string name="onscreen">Vibracija ekrana</string>
+    <string name="onscreen_sum">Vibriraj na dodir ekrana</string>
+    <string name="icon">Promjeni ikonu</string>
+    <string name="icon_sum">Postavi crvenu ikonu</string>
+    <string name="reset">Resetiraj statistiku?</string>
+    <string name="sure">Dali ste sigurni?</string>
+    <string name="cancel">Odustani</string>
+    <string name="yes">Da</string>
+
+</resources>
